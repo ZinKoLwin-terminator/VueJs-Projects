@@ -1,9 +1,9 @@
 <script setup>
-import AmazingCalculator from './components/AmazingCalculator.vue'
+import AccordingComponent from './components/AccordingComponent.vue'
 </script>
 
 <template>
-  <AmazingCalculator />
+  <AccordingComponent />
 </template>
 
 <style scoped></style>
