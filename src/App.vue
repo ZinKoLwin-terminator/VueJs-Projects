@@ -1,9 +1,9 @@
 <script setup>
-import FormValidation from './components/FormValidation.vue'
+import ProgressSteps from './components/ProgressSteps.vue'
 </script>
 
 <template>
-  <FormValidation />
+  <ProgressSteps />
 </template>
 
 <style scoped></style>
